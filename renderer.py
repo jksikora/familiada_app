@@ -50,7 +50,7 @@ class Renderer:
         pygame.init()
         pygame.mixer.init()
         self.terminal_height = TERMINAL_HEIGHT
-        self.screen = pygame.display.set_mode((self.width, self.height + self.terminal_height))
+        self.screen = pygame.display.set_mode((self.width, self.height + self.terminal_height), pygame.FULLSCREEN)
         self.font = pygame.font.Font(None, 15)
         self.terminal_background_color = (15, 15, 15)
         self.terminal_text_color = (220, 220, 220)

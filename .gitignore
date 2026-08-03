@@ -1,2 +1,2 @@
-.venv_familiada/
-mock.py
+.venv/
+__pycache__/
