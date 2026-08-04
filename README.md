@@ -2,6 +2,12 @@
 
 An application simulating the *Family Feud* game show, controlled from a terminal-style command bar and rendered as graphics in a **Pygame** window. The project recreates the full flow of the game - from the home screen, through the elimination rounds, to the final round and the win/lose end screen.
 
+<img width="1920" height="1080" alt="fam00" src="https://github.com/user-attachments/assets/6f723edb-544b-4103-a43f-29b89246c5a8" />
+
+<img width="1920" height="1080" alt="fam01" src="https://github.com/user-attachments/assets/d862be01-18d4-42d9-819d-bbcc3da76dda" />
+
+<img width="1920" height="1080" alt="fam02" src="https://github.com/user-attachments/assets/0b79ef13-f459-43aa-aae0-8a3ada64b712" />
+
 ## Table of contents
 
 - [How it works](#how-it-works)
